@@ -1,0 +1,28 @@
+{
+  "name": "webrtc-one-to-one-piepcall",
+  "version": "1.0.0",
+  "description": "tungns demo webrtc for piepcall just supp only web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenTungs/webrtc-one-to-one-piepcall.git"
+  },
+  "keywords": [
+    "webrtc",
+    "tungns",
+    "one-to-one"
+  ],
+  "author": "tungns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenTungs/webrtc-one-to-one-piepcall/issues"
+  },
+  "homepage": "https://github.com/NguyenTungs/webrtc-one-to-one-piepcall#readme"
+}
